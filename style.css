@@ -7,7 +7,7 @@
                 transform: translateX(0);
             }
         }
-
+        
         /* CSS pour le titre et la description */
         h1 {
             animation: slideIn 1s ease-out;
@@ -18,5 +18,6 @@
         }
         h2{
 
-            display: none;
-        }
+        
+
+            
