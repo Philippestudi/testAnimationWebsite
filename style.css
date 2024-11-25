@@ -19,9 +19,11 @@
         
         /* CSS pour le titre et la description */
         h1 {
+            background-color: burlywood;
             animation: slideIn 1s ease-out;
         }
         h2 {
+            background-color: aqua;
             animation: slideIn 1s ease-out;
         }
         p {
