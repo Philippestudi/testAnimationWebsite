@@ -7,12 +7,23 @@
                 transform: translateX(0);
             }
         }
+
+        @keyframes slideIn2 {
+            0% {
+                transform: translateY(-200%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
         
         /* CSS pour le titre et la description */
         h1 {
             animation: slideIn 1s ease-out;
         }
-        
+        h2 {
+            animation: slideIn 1s ease-out;
+        }
         p {
             animation: slideIn 1s ease-out 0.5s;
         }       
